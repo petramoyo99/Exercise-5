@@ -1,0 +1,22 @@
+# Exercise 5 - Advanced SQL (DATE FUNCTIONS)
+
+**Objective**  
+Master date and time manipulation functions to perform time-based filtering, grouping, and calculations.
+
+**Key Concepts Demonstrated**
+- Extracting date parts: `YEAR()`, `MONTH()`, `DAY()`, `QUARTER()`, etc.
+- Current date/time: `GETDATE()`, `CURRENT_DATE`, `NOW()`
+- Date arithmetic: `DATEADD()`, `DATEDIFF()`, `DATE_ADD()`, `INTERVAL`
+- Date formatting: `FORMAT()`, `CONVERT()`, `DATE_FORMAT()`
+- Working with DATE, DATETIME, and TIMESTAMP data types
+
+**Main Tasks**
+- Find all orders placed in the last 60 days
+- Calculate age or tenure (years of service) from birth/hire dates
+- Group sales revenue by month and year
+- Identify records from a specific fiscal quarter
+- Convert string dates and handle different date formats
+
+**Files**
+- `Exercise_5_-_Advanced_SQL_(DATE_FUNCTIONS).pdf` – exercises & sample queries
+- (Your solution file – e.g. `exercise5_date_functions.sql`)
